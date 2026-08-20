@@ -1,4 +1,4 @@
-# Nikita Mikaev | Staff Software Engineer | Engineering Manager | Distributed Systems & High-Load
+# Nikita Mikaev | Engineering Manager | Staff Software Engineer | Distributed Systems & High-Load
 
 
 
