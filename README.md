@@ -8,10 +8,10 @@ Welcome to my profile. I am a hands-on technical leader and individual contribut
 
 ## 🚀 Professional Profile
 
-* **Staff Engineer at Dcloud.tech:** Leading microservices migrations and production operations frameworks for high-load telecom and e-commerce platforms (2,000+ RPS, 99.95% uptime). Spearheaded the zero-downtime microservice extraction of core transactional engines (Promocodes & Rewards) and built internal AI recruitment tooling (RAG resume search).
+* **Staff Engineer at Dcloud.tech:** Leading microservices migrations and production operations frameworks for a high-load telecom platform (2,000+ RPS, 99.95% uptime). Built internal AI recruitment tooling (RAG resume search).
 
 
-* **Engineering Manager (Crisis Turnaround & Scale):** Track record of rescuing underperforming teams, lifting sprint predictability from 20% to **85–100%** at **Uzum Market**, and delivering greenfield enterprise platforms from scratch (including a global cloud-native media delivery platform for **Warner Music Group** in 8 months).
+* **Engineering Manager (Crisis Turnaround & Scale):** Track record of rescuing underperforming teams, lifting sprint predictability from 20% to **85–100%** and spearheading monolith extraction of the core functionality (Promocodes & Rewards) at **Uzum Market**, delivering greenfield enterprise platforms from scratch (including a global cloud-native media delivery platform for **Warner Music Group** in 8 months).
 
 
 
